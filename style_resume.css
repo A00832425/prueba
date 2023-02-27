@@ -1,0 +1,57 @@
+nav{
+    background-color: rgb(188, 207, 157);
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+header{
+    border: 2px solid rgb(30, 90, 57);
+    background-color: rgb(164, 187, 128);
+}
+
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.link_nav{
+    border:1px solid black;
+    margin:1px;
+    padding:1.5px;
+}
+
+.parrafos_nav_bar{
+    border:1px solid black;
+    font-size:12px;
+    margin:1px;
+    padding: 2px;
+}
+
+h2{
+    background-color: rgb(192, 202, 177);
+    text-align:center;
+    color:rgb(11, 43, 16)
+}
+
+body{
+    border: 5px solid rgb(51, 66, 141);
+    background-color: rgb(223, 228, 220);
+    margin:0px;
+    padding:7px;
+}
+
+#foto{
+    margin:9px;
+    padding:0px;
+    border:4px double rgb(202, 33, 33);
+}
+
+li{
+    list-style-type: circle;
+}
+
+footer{
+    border:1px dashed black;
+    margin: 1px;
+    padding:1px;
+}
